@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/experience-tabs/static/css/main.fd50c553.chunk.css",
+    "main.js": "/experience-tabs/static/js/main.2726c8d8.chunk.js",
+    "main.js.map": "/experience-tabs/static/js/main.2726c8d8.chunk.js.map",
+    "runtime-main.js": "/experience-tabs/static/js/runtime-main.cf3eca6d.js",
+    "runtime-main.js.map": "/experience-tabs/static/js/runtime-main.cf3eca6d.js.map",
+    "static/js/2.b7b4eab4.chunk.js": "/experience-tabs/static/js/2.b7b4eab4.chunk.js",
+    "static/js/2.b7b4eab4.chunk.js.map": "/experience-tabs/static/js/2.b7b4eab4.chunk.js.map",
+    "index.html": "/experience-tabs/index.html",
+    "precache-manifest.1fb4e304c6d9259618054015c62776dd.js": "/experience-tabs/precache-manifest.1fb4e304c6d9259618054015c62776dd.js",
+    "service-worker.js": "/experience-tabs/service-worker.js",
+    "static/css/main.fd50c553.chunk.css.map": "/experience-tabs/static/css/main.fd50c553.chunk.css.map",
+    "static/js/2.b7b4eab4.chunk.js.LICENSE.txt": "/experience-tabs/static/js/2.b7b4eab4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf3eca6d.js",
+    "static/js/2.b7b4eab4.chunk.js",
+    "static/css/main.fd50c553.chunk.css",
+    "static/js/main.2726c8d8.chunk.js"
+  ]
+}
