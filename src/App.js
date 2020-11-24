@@ -54,9 +54,9 @@ function App() {
           <h4>{active.company}</h4>
           <p className="job-date">{active.dates}</p>
           <ul>
-            {active.duties.map(duty => {
+            {active.duties.map((duty, index) => {
               return (
-                <li className="job-desc" key={duty}>
+                <li className="job-desc" key={index}>
                   <i className="job-icon"><FaAngleDoubleRight /></i>
                   <p>{duty}</p>
                 </li>
